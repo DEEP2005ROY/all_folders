@@ -11,6 +11,7 @@ As the demand for data analysts continues to grow, identifying lucrative opportu
 The dataset, sourced from a structured SQL course, includes job listings, associated companies, skill requirements, salaries, and more.
 
 🔍 Key Questions Addressed
+
 Which companies offer the highest-paying remote data analyst jobs?
 
 What are the skill sets linked to these high-paying positions?
